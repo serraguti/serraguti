@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Paco García Serrano - Matrix">
+<defs>
+<style>
+text{font-family:"JetBrains Mono","Courier New",monospace;font-size:14px;text-anchor:middle}
+@keyframes fall{from{transform:translateY(-230px)}to{transform:translateY(230px)}}
+@keyframes blink{50%{opacity:0}}
+.c{fill:url(#r);animation-name:fall;animation-timing-function:linear;animation-iteration-count:infinite}
+.b{animation:blink 1s steps(1) infinite}
+.t{font-size:32px;font-weight:bold;fill:#00FF41;filter:url(#glow)}
+</style>
+<linearGradient id="r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00FF41" stop-opacity=".08"/><stop offset=".9" stop-color="#00FF41" stop-opacity=".9"/><stop offset=".92" stop-color="#D8FFE2"/></linearGradient>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="f" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000"/></linearGradient>
+</defs>
+<rect width="900" height="220" fill="#000"/>
+<text class="c" x="14 14 14 14 14 14 14 14 14 14 14 14" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:6.1s;animation-delay:-4.8s">ｵ9ｿﾘﾒﾋｸﾇｳﾇﾚﾏ</text>
+<text class="c" x="36 36 36 36 36 36 36 36 36 36 36 36" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:7.4s;animation-delay:-6.2s">ﾏﾍｨｿｯｿｴ2ﾗｯｲﾛ</text>
+<text class="c" x="58 58 58 58 58 58 58 58 58 58 58 58" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:3.3s;animation-delay:-1.9s">ﾜﾘ0ﾌ8ｺﾚﾃｳﾀﾗｾ</text>
+<text class="c" x="79 79 79 79 79 79 79 79 79 79 79 79" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:3.8s;animation-delay:-2.4s">ｳ2ｦ25ｵ587ﾕﾜｽ</text>
+<text class="c" x="101 101 101 101 101 101 101 101 101 101 101 101" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:7.0s;animation-delay:-1.7s">ｩ3ﾖ1ｴﾇｶ4ﾊ1ﾙﾋ</text>
+<text class="c" x="123 123 123 123 123 123 123 123 123 123 123 123" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:6.4s;animation-delay:-3.0s">ﾌﾍｫｯﾀﾍﾛｲ3ｮ38</text>
+<text class="c" x="145 145 145 145 145 145 145 145 145 145 145 145" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:5.1s;animation-delay:-4.9s">ｼﾝﾉｯｰｶｻﾝﾊ3ｴｿ</text>
+<text class="c" x="167 167 167 167 167 167 167 167 167 167 167 167" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:5.9s;animation-delay:-5.2s">ｮﾜｹｧﾗﾋｫﾓﾆﾀﾇ9</text>
+<text class="c" x="188 188 188 188 188 188 188 188 188 188 188 188" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:4.6s;animation-delay:-0.1s">ﾉﾀｮｿﾋ38ｷﾏ9ﾇﾍ</text>
+<text class="c" x="210 210 210 210 210 210 210 210 210 210 210 210" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:6.0s;animation-delay:-4.1s">ﾊ8ﾜ5ｭﾂｹｫ2ｴ9ｲ</text>
+<text class="c" x="232 232 232 232 232 232 232 232 232 232 232 232" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:4.3s;animation-delay:-2.0s">ﾖﾏﾐﾕｽ0ﾐｲ1ﾚｫﾔ</text>
+<text class="c" x="254 254 254 254 254 254 254 254 254 254 254 254" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:3.6s;animation-delay:-1.6s">2ﾔｫﾋﾇﾉｱﾂﾘｪｻｻ</text>
+<text class="c" x="276 276 276 276 276 276 276 276 276 276 276 276" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:5.2s;animation-delay:-3.7s">ｳ9ｱｪﾝｫｷﾏﾅｪﾉｾ</text>
+<text class="c" x="297 297 297 297 297 297 297 297 297 297 297 297" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:3.8s;animation-delay:-1.1s">0ｶｯ1ﾍﾙﾂﾓｳﾄﾇｷ</text>
+<text class="c" x="319 319 319 319 319 319 319 319 319 319 319 319" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:4.7s;animation-delay:-4.3s">ﾂ1ﾌｭ0ｵｾｮ7ｶﾗﾉ</text>
+<text class="c" x="341 341 341 341 341 341 341 341 341 341 341 341" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:5.3s;animation-delay:-5.0s">1ｬﾜｩﾂﾍﾅｳﾙﾛｷﾃ</text>
+<text class="c" x="363 363 363 363 363 363 363 363 363 363 363 363" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:3.9s;animation-delay:-0.7s">5ｱﾉﾙ0ｮｦﾄｰﾈﾅ6</text>
+<text class="c" x="385 385 385 385 385 385 385 385 385 385 385 385" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:3.9s;animation-delay:-2.0s">ﾇ3ﾜｨｷｲｼﾜｨﾈ6ﾐ</text>
+<text class="c" x="406 406 406 406 406 406 406 406 406 406 406 406" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:4.3s;animation-delay:-0.8s">ｯﾌｩｵｯｬｱ2ｮｪｱﾖ</text>
+<text class="c" x="428 428 428 428 428 428 428 428 428 428 428 428" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:6.2s;animation-delay:-1.9s">ﾑﾉｹｵｭｫﾔｽｴﾑ6ﾓ</text>
+<text class="c" x="450 450 450 450 450 450 450 450 450 450 450 450" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:4.3s;animation-delay:-2.7s">ｳﾀｪｻﾈﾗﾎｨﾀ6ｯｩ</text>
+<text class="c" x="472 472 472 472 472 472 472 472 472 472 472 472" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:7.5s;animation-delay:-5.9s">ﾃｼｽｻﾗｻｮｾﾆｳｻ6</text>
+<text class="c" x="494 494 494 494 494 494 494 494 494 494 494 494" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:5.5s;animation-delay:-2.8s">ﾀｯﾝﾒｾﾎｹｾｧｫﾇﾍ</text>
+<text class="c" x="515 515 515 515 515 515 515 515 515 515 515 515" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:6.8s;animation-delay:-2.9s">ｽｮﾙ8ｩ1ﾆﾉ1ﾗﾎｲ</text>
+<text class="c" x="537 537 537 537 537 537 537 537 537 537 537 537" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:5.3s;animation-delay:-4.5s">ﾘｹｬﾘﾁﾄｲｰﾒｸ5ﾘ</text>
+<text class="c" x="559 559 559 559 559 559 559 559 559 559 559 559" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:4.8s;animation-delay:-0.5s">5ｫｸｨ5ｺﾐ60ｹﾉｶ</text>
+<text class="c" x="581 581 581 581 581 581 581 581 581 581 581 581" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:6.6s;animation-delay:-5.5s">ﾍ6ﾗﾋﾙﾗｨﾃｿﾔｻｾ</text>
+<text class="c" x="603 603 603 603 603 603 603 603 603 603 603 603" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:3.3s;animation-delay:-0.4s">ｪﾋｯﾒﾑ5ﾕﾙﾚ25ｮ</text>
+<text class="c" x="624 624 624 624 624 624 624 624 624 624 624 624" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:3.5s;animation-delay:-3.3s">ﾓﾔｹｿﾊｹﾔﾈﾖ7ﾑｽ</text>
+<text class="c" x="646 646 646 646 646 646 646 646 646 646 646 646" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:4.6s;animation-delay:-4.4s">8ｪﾜ3ﾉ9ｰ0ｰﾏ7ｪ</text>
+<text class="c" x="668 668 668 668 668 668 668 668 668 668 668 668" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:5.4s;animation-delay:-3.3s">ﾁﾔｷﾙ0ﾇﾎｼﾅ6ｩｻ</text>
+<text class="c" x="690 690 690 690 690 690 690 690 690 690 690 690" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:7.3s;animation-delay:-5.5s">3ﾀﾎﾉﾍｦﾕﾝｶﾎｷｼ</text>
+<text class="c" x="712 712 712 712 712 712 712 712 712 712 712 712" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:6.9s;animation-delay:-0.8s">0ｪﾉﾓﾆﾌﾉﾇｷｯﾔ8</text>
+<text class="c" x="733 733 733 733 733 733 733 733 733 733 733 733" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:4.8s;animation-delay:-0.0s">ﾛﾌﾊ0ｽ42ﾃﾑ7ﾋｭ</text>
+<text class="c" x="755 755 755 755 755 755 755 755 755 755 755 755" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:5.4s;animation-delay:-1.3s">ｵﾔ1ｮﾅ22ｹｲﾇﾝﾙ</text>
+<text class="c" x="777 777 777 777 777 777 777 777 777 777 777 777" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:6.1s;animation-delay:-4.4s">ﾝｻｴｴﾑｴﾀﾑｹｸﾗ7</text>
+<text class="c" x="799 799 799 799 799 799 799 799 799 799 799 799" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:4.5s;animation-delay:-3.4s">ｹ247ｧｴｶﾚﾚｫｱ9</text>
+<text class="c" x="821 821 821 821 821 821 821 821 821 821 821 821" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:3.5s;animation-delay:-0.7s">ﾎﾐﾒｼﾝﾄｾｼﾙ0ｼ5</text>
+<text class="c" x="842 842 842 842 842 842 842 842 842 842 842 842" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:5.1s;animation-delay:-2.3s">3ﾂ1ｳｩ6ﾅｹﾕﾔﾓｦ</text>
+<text class="c" x="864 864 864 864 864 864 864 864 864 864 864 864" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:5.1s;animation-delay:-1.0s">ﾎ2ｾﾌｵﾃ17ﾜﾒﾓﾎ</text>
+<text class="c" x="886 886 886 886 886 886 886 886 886 886 886 886" y="14 29 44 59 74 89 104 119 134 149 164 179" style="animation-duration:5.6s;animation-delay:-3.0s">ｵ5ﾂ5ﾔｨｻｾｰﾘﾘﾛ</text>
+<rect y="170" width="900" height="50" fill="url(#f)"/>
+<rect x="190" y="72" width="520" height="76" rx="6" fill="#000" fill-opacity=".72" stroke="#00FF41" stroke-opacity=".6"/>
+<text class="t" x="450" y="121">PACO GARCÍA SERRANO<tspan class="b">_</tspan></text>
+</svg>
